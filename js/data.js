@@ -35,6 +35,12 @@ export default [
   },
 
   {
+    title: "Sport-website",
+    github: "https://github.com/dudoshaa/sport-power",
+    vercel: "https://sport-power-seven.vercel.app",
+  },
+
+  {
     title: "coffe",
     github: "https://github.com/dudoshaa/coffe",
     vercel: "https://coffe-hazel.vercel.app/",
