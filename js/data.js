@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Parfume",
+    github: "https://github.com/dudoshaa/3-oy-6-dars",
+    vercel: "https://parfume-site-eight.vercel.app",
+  },
+  {
     title: "3 column proview",
     github: "https://github.com/dudoshaa/3-column-preview-card",
     vercel: "https://3-column-preview-card-lac.vercel.app",
