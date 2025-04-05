@@ -24,6 +24,12 @@ export default [
   },
 
   {
+    title: "AkademNAshr",
+    github: "https://github.com/dudoshaa/Akademnashr",
+    vercel: "https://akademnashr-zeta.vercel.app",
+  },
+
+  {
     title: "coffe",
     github: "https://github.com/dudoshaa/coffe",
     vercel: "https://coffe-hazel.vercel.app/",
