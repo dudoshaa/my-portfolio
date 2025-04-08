@@ -1,5 +1,10 @@
 export default [
   {
+    title: "My Team ",
+    github: "https://github.com/dudoshaa/3-oy-7-dars",
+    vercel: "https://3-oy-7-dars-blue.vercel.app",
+  },
+  {
     title: "Parfume",
     github: "https://github.com/dudoshaa/3-oy-6-dars",
     vercel: "https://parfume-site-eight.vercel.app",
