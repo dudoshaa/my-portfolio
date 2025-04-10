@@ -57,7 +57,7 @@ body {
   flex-direction: column;
   height: 100%;
   font-family: "Noto Serif", serif;
-  
+
   background: linear-gradient(to left, rgb(110, 27, 68), rgb(0, 0, 0));
 }
 
@@ -131,9 +131,12 @@ main {
 .portfolio__link {
   font-size: 18px;
 }
-.link-github,.link-vercel{
+.link-github,
+.link-vercel {
   color: #7c5079;
-  
+  &:hover {
+    color: #d924ca;
+  }
 }
 .fa-brands {
 }
