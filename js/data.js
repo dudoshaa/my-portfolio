@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Single Page Design ",
+    github: "https://github.com/dudoshaa/Single-page-design",
+    vercel: "https://single-page-design-psi.vercel.app",
+  },
+  {
     title: "My Team ",
     github: "https://github.com/dudoshaa/3-oy-7-dars",
     vercel: "https://3-oy-7-dars-blue.vercel.app",
