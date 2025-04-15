@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Tech Book Club ",
+    github: "https://github.com/dudoshaa/3-oy-10-dars",
+    vercel: "https://3-oy-10-dars-psi.vercel.app",
+  },
+  {
     title: "Single Page Design ",
     github: "https://github.com/dudoshaa/Single-page-design",
     vercel: "https://single-page-design-psi.vercel.app",
