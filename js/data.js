@@ -1,5 +1,16 @@
 export default [
   {
+    title: "Stats Preview Responsive ",
+    github: "https://github.com/dudoshaa/Stats-preview",
+    vercel: "https://stats-preview-zeta-three.vercel.app",
+  },
+
+  {
+    title: "Tech Book Club Responsive ",
+    github: "https://github.com/dudoshaa/Tech-book-club-Responsiv",
+    vercel: "https://tech-book-club-responsiv.vercel.app",
+  },
+  {
     title: "Tech Book Club ",
     github: "https://github.com/dudoshaa/3-oy-10-dars",
     vercel: "https://3-oy-10-dars-psi.vercel.app",
