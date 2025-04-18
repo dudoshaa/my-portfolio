@@ -1,5 +1,10 @@
 export default [
   {
+    title: "3-oy Imtihon ",
+    github: "https://github.com/dudoshaa/Exam-2",
+    vercel: "https://exam-2-silk-nine.vercel.app",
+  },
+  {
     title: "Stats Preview Responsive ",
     github: "https://github.com/dudoshaa/Stats-preview",
     vercel: "https://stats-preview-zeta-three.vercel.app",
