@@ -1,5 +1,16 @@
 export default [
   {
+    title: "Video Player ",
+    github: "https://github.com/dudoshaa/Video-Player",
+    vercel: "https://video-player-jet.vercel.app",
+  },
+  {
+    title: "Music Player ",
+    github: "https://github.com/dudoshaa/player",
+    vercel: "https://player-alpha-two.vercel.app/",
+  },
+
+  {
     title: "FinSweet ",
     github: "https://github.com/dudoshaa/Fiinsweet2",
     vercel: "https://fiinsweet2.vercel.app/",
