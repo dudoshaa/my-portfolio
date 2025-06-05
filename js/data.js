@@ -14,10 +14,15 @@ export default [
     github: "https://github.com/dudoshaa/player",
     vercel: "https://player-alpha-two.vercel.app/",
   },
-  {
+    {
     title: "3-oy Imtihon ",
     github: "https://github.com/dudoshaa/Exam-2",
     vercel: "https://exam-2-silk-nine.vercel.app",
+  },
+  {
+    title: "Fiinsweet ",
+    github: "https://github.com/dudoshaa/Fiinsweet2",
+    vercel: "https://fiinsweet2.vercel.app/",
   },
   {
     title: "Stats Preview Responsive ",
