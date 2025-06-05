@@ -1,5 +1,10 @@
 export default [
   {
+    title: "FlyAway Traveling",
+    github: "https://github.com/dudoshaa/Travel",
+    vercel: "https://travel-zeta-nine.vercel.app/",
+  },
+  {
     title: "Video Player ",
     github: "https://github.com/dudoshaa/Video-Player",
     vercel: "https://video-player-jet.vercel.app",
