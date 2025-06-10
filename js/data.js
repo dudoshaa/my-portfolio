@@ -1,4 +1,10 @@
 export default [
+
+  {
+    title: "Online-shop",
+    github: "https://github.com/dudoshaa/Online-shop",
+    vercel: "https://online-shop-three-phi.vercel.app/",
+  },
   {
     title: "FlyAway Traveling",
     github: "https://github.com/dudoshaa/Travel",
