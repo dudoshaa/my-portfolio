@@ -1,6 +1,12 @@
 export default [
 
   {
+    title: "Desserts",
+    github: "https://github.com/dudoshaa/Exam-5",
+    vercel: "https://exam-5-pi.vercel.app",
+  },
+
+  {
     title: "Online-shop",
     github: "https://github.com/dudoshaa/Online-shop",
     vercel: "https://online-shop-three-phi.vercel.app/",
