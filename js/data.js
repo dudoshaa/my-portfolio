@@ -1,5 +1,11 @@
 export default [
   {
+    title:"CUuser",
+    github:"https://github.com/dudoshaa/cu",
+    vercel:"https://cu-theta.vercel.app/"
+  },
+
+  {
     title:"Book Shop",
     github:"https://github.com/dudoshaa/Book-Shop",
     vercel:"https://book-shop-lime-beta.vercel.app/"
