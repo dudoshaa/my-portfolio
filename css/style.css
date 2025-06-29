@@ -94,11 +94,13 @@ main {
   padding: 60px;
   border-radius: 15px;
   box-shadow: 0 8px 12px rgba(175, 54, 165, 0.6);
-  padding-bottom: 10px;
-  transition: 0.3s;
+  padding-bottom: 10px; 
+  transition: transform 0.3s ease;
+  
 
   &:hover {
     box-shadow: 0 16px 24px rgba(175, 54, 165, 0.6);
+    transform: scale(1.05)
   }
 }
 .portfolio__content {
