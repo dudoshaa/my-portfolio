@@ -1,5 +1,10 @@
 export default [
   {
+    title:"Shop",
+    github:"https://github.com/dudoshaa/6dars",
+    vercel:"https://6dars-three.vercel.app"
+  },
+  {
     title:"CUuser",
     github:"https://github.com/dudoshaa/cu",
     vercel:"https://cu-theta.vercel.app/"
