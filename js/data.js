@@ -1,5 +1,10 @@
 export default [
   {
+    title:"ContextStore",
+    github:"https://github.com/dudoshaa/context",
+    vercel:"https://context-ochre.vercel.app/"
+  },
+  {
     title:"Shop",
     github:"https://github.com/dudoshaa/page",
     vercel:"https://page-ecru-chi.vercel.app"
