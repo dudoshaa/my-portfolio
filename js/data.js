@@ -7,7 +7,7 @@ export default [
   {
     title:"Shop",
     github:"https://github.com/dudoshaa/page",
-    vercel:"https://page-ecru-chi.vercel.app"
+    vercel:"https://page-ecru-chi.vercel.app/"
   },
   {
     title:"CUuser",
