@@ -1,35 +1,40 @@
 export default [
   {
-    title:"Login Page",
-    github:"https://github.com/dudoshaa/loginpage",
-    vercel:"https://loginpage-five-bice.vercel.app/"
+    title: "Login Page Responsive",
+    github: "https://github.com/dudoshaa/sign",
+    vercel: "https://sign-ivory-kappa.vercel.app/login",
   },
   {
-    title:"ContextStore",
-    github:"https://github.com/dudoshaa/context",
-    vercel:"https://context-ochre.vercel.app/"
+    title: "Login Page",
+    github: "https://github.com/dudoshaa/loginpage",
+    vercel: "https://loginpage-five-bice.vercel.app/",
   },
   {
-    title:"Shop",
-    github:"https://github.com/dudoshaa/page",
-    vercel:"https://page-ecru-chi.vercel.app/"
+    title: "ContextStore",
+    github: "https://github.com/dudoshaa/context",
+    vercel: "https://context-ochre.vercel.app/",
   },
   {
-    title:"CUuser",
-    github:"https://github.com/dudoshaa/cu",
-    vercel:"https://cu-theta.vercel.app/"
+    title: "Shop",
+    github: "https://github.com/dudoshaa/page",
+    vercel: "https://page-ecru-chi.vercel.app/",
+  },
+  {
+    title: "CUuser",
+    github: "https://github.com/dudoshaa/cu",
+    vercel: "https://cu-theta.vercel.app/",
   },
 
   {
-    title:"Book Shop",
-    github:"https://github.com/dudoshaa/Book-Shop",
-    vercel:"https://book-shop-lime-beta.vercel.app/"
+    title: "Book Shop",
+    github: "https://github.com/dudoshaa/Book-Shop",
+    vercel: "https://book-shop-lime-beta.vercel.app/",
   },
 
   {
-    title:"Random User",
-    github:"https://github.com/dudoshaa/6.1",
-    vercel:"https://6-1-eta.vercel.app/"
+    title: "Random User",
+    github: "https://github.com/dudoshaa/6.1",
+    vercel: "https://6-1-eta.vercel.app/",
   },
 
   {
@@ -58,7 +63,7 @@ export default [
     github: "https://github.com/dudoshaa/player",
     vercel: "https://player-alpha-two.vercel.app/",
   },
-    {
+  {
     title: "3-oy Imtihon ",
     github: "https://github.com/dudoshaa/Exam-2",
     vercel: "https://exam-2-silk-nine.vercel.app",
