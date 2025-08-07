@@ -2,7 +2,7 @@ export default [
   {
     title: "Login Page Responsive",
     github: "https://github.com/dudoshaa/sign",
-    vercel: "https://sign-ivory-kappa.vercel.app/login",
+    vercel: "https://sign-rust-eight.vercel.app/login",
   },
   {
     title: "Login Page",
