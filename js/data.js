@@ -2,7 +2,7 @@ export default [
   {
     title: "Exam-7 ",
     github: "https://github.com/dudoshaa/exam7month",
-    vercel: "https://exam7month.vercel.app",
+    vercel: "https://exam7month.vercel.app/",
   },
   {
     title: "Login Page Responsive",
