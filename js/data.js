@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Todo List",
+    github: "https://github.com/dudoshaa/todo",
+    vercel: "https://todo-rosy-iota.vercel.app/",
+  },
+  {
     title: "Desserts",
     github: "https://github.com/dudoshaa/1dars",
     vercel: "https://1dars-five.vercel.app/",
