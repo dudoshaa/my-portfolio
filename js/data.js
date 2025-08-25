@@ -1,7 +1,12 @@
 export default [
   {
+    title: "Dev Finder",
+    github: "https://github.com/dudoshaa/devfinder",
+    vercel: "https://devfinder-liard.vercel.app/",
+  },
+  {
     title: "Todo List",
-    github: "https://github.com/dudoshaa/todo",
+    github: "https://devfinder-liard.vercel.app/",
     vercel: "https://todo-rosy-iota.vercel.app/",
   },
   {
