@@ -20,11 +20,6 @@ export default [
     vercel: "https://sign-rust-eight.vercel.app/login",
   },
   {
-    title: "Login Page",
-    github: "https://github.com/dudoshaa/loginpage",
-    vercel: "https://loginpage-five-bice.vercel.app/",
-  },
-  {
     title: "ContextStore",
     github: "https://github.com/dudoshaa/context",
     vercel: "https://context-ochre.vercel.app/",
